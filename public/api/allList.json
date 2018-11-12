@@ -1,0 +1,60 @@
+{
+	"success": true,
+	"data": {
+		"list": [{
+			"key": "123",
+			"billName": "123",
+			"amount": 21,
+			"reason": "123",
+			"personName": "大师兄",
+			"date": "2012-10-17",
+			"teacher": "1师傅",
+			"studentID": "2016123454"
+		},{
+			"key": "122",
+			"billName": "122",
+			"amount": 23,
+			"reason": "122",
+			"personName": "大师兄",
+			"date": "2013-10-17",
+			"teacher": "1师傅",
+			"studentID": "2016123454"
+		},{
+			"key": "124",
+			"billName": "124",
+			"amount": 23,
+			"reason": "124",
+			"personName": "大师兄",
+			"date": "2016-10-17",
+			"teacher": "2师傅",
+			"studentID": "2016123454"
+		},{
+			"key": "125",
+			"billName": "125",
+			"amount": 23,
+			"reason": "125",
+			"personName": "大师兄",
+			"date": "2015-10-17",
+			"teacher": "2师傅",
+			"studentID": "2016123454"
+		},{
+			"key": "126",
+			"billName": "126",
+			"amount": 23,
+			"reason": "126",
+			"personName": "大师兄",
+			"date": "2018-10-17",
+			"teacher": "3师傅",
+			"studentID": "2016123454"
+		},{
+			"key": "127",
+			"billName": "127",
+			"amount": 23,
+			"reason": "127",
+			"personName": "大师兄",
+			"date": "2011-10-17",
+			"teacher": "3师傅",
+			"studentID": "2016123454"
+		}]
+	} 
+}

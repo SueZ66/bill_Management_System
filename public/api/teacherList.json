@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"data": {
+		"teacherList": [{
+			"teacherName": "阿山",
+			"key": "阿山",
+			"student": "大师兄、二师兄、三师弟"
+		},{
+			"teacherName": "阿出",
+			"key": "阿出",
+			"student": "大师兄、二师兄、三师弟"
+		},{
+			"teacherName": "阿耸",
+			"key": "阿耸",
+			"student": "大师兄、二师兄、三师弟"
+		}]
+	}
+}

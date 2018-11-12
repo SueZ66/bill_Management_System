@@ -1,0 +1,9 @@
+export const EDIT = 'teacher/EDIT';
+export const SAVE = 'teacher/SAVE';
+export const ADDDATA = 'teacher/ADDDATA';
+export const CANCEL = 'teacher/CANCEL';
+export const CANCELADD = 'teacher/CANCELADD';
+export const GETPAGECHANGE = 'teacher/GETPAGECHANGE';
+export const DELETEDATA = 'teacher/DELETEDATA';
+export const CHANGETEACHERLIST = 'teacher/CHANGETEACHERLIST';
+export const SETHISTORY = 'teacher/SETHISTORY';
